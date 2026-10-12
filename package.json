@@ -1,0 +1,10 @@
+{
+  "name": "ophtasuite-serveur",
+  "version": "1.0.0",
+  "description": "Serveur de synchronisation pour OphtaSuite",
+  "main": "serveur-innovcare.js",
+  "scripts": { "start": "node serveur-innovcare.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
